@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BTL</string>
+    <string name="table_management">Table management</string>
+    <string name="table_subtitle">Nhấn để xem chi tiết. Nhấn giữ để sửa hoặc xóa bàn.</string>
+    <string name="no_table">Chưa có bàn nào. Hãy thêm bàn mới.</string>
+    <string name="add_table">Thêm bàn</string>
+    <string name="table_icon">Biểu tượng bàn</string>
+    <string name="hint_table_name">Tên bàn</string>
+    <string name="hint_seats">Số chỗ</string>
+    <string name="hint_status">Trạng thái</string>
+    <string name="hint_note">Ghi chú</string>
+    <string name="pos_title">Ban hang</string>
+    <string name="pos_menu">Thuc don</string>
+    <string name="pos_search_hint">Tim mon...</string>
+    <string name="pos_cart">Gio hang</string>
+    <string name="pos_cart_count">0 mon</string>
+    <string name="pos_order_note">Ghi chu don hang</string>
+    <string name="pos_total_label">Tong cong</string>
+    <string name="pos_total_value">0 VND</string>
+    <string name="pos_checkout">Thanh toan</string>
+    <string name="pos_add">+ Them</string>
+    <string name="pos_loading_title">Dang tai mon</string>
+    <string name="pos_loading_message">Vui long doi trong giay lat.</string>
+    <string name="pos_error_title">Khong tai duoc mon</string>
+    <string name="pos_empty_title">Chua co mon</string>
+    <string name="pos_empty_message">API chua tra ve mon nao.</string>
+    <string name="pos_no_search_title">Khong tim thay mon</string>
+    <string name="pos_no_search_message">Hay thu tu khoa khac.</string>
+    <string name="pos_item_note">Ghi chu mon</string>
+    <string name="pos_retry">Thu lai</string>
+</resources>

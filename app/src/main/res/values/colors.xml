@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="screen_background">#FFF9EF</color>
+    <color name="toolbar_yellow">#FFC928</color>
+    <color name="card_yellow">#FFD146</color>
+    <color name="text_primary">#2A1F00</color>
+    <color name="text_secondary">#7A6A3C</color>
+    <color name="pos_background">#FFF8F1</color>
+    <color name="pos_surface">#FFFFFFFF</color>
+    <color name="pos_surface_alt">#F7EFE7</color>
+    <color name="pos_primary">#6F4E37</color>
+    <color name="pos_primary_dark">#4A3325</color>
+    <color name="pos_accent">#2E7D5B</color>
+    <color name="pos_danger">#C44536</color>
+    <color name="pos_border">#E8D9C9</color>
+    <color name="pos_muted">#8A7A6A</color>
+</resources>
